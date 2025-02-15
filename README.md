@@ -2,6 +2,8 @@
 
 ## 1. The easiest way to run the code
 
+（0）Please check the ARR-code and ARR-data to get the LorentzKG‘s checkpoint and qtdict（query-aware negative sampling candidates, and put qtdict in data/FB15k-237/）.
+
 (1) Check if you have a basic deep learning library with torch installed.
 
 (2) Make sure you have a GPU-accelerated environment with at least 24GB of memory.
